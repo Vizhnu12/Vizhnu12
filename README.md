@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu Jaybhaye</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/004/865/921/original/programmer-people-concept-use-laptop-and-programming-code-program-icon-spreading-with-modern-flat-style-free-vector.jpg">
+<img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/master12.appspot.com/o/21004063-removebg-preview.png?alt=media&token=2ff6d4a8-fe9a-44c7-b881-c49f60fe7e5d">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnnnu12&label=Profile%20views&color=0e75b6&style=flat" alt="vishnnnu12" /> </p>
 
